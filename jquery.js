@@ -22,7 +22,7 @@ $("#startreset").click(function(){
 
     	//set score to 0
     	score = 0; //set score
-    	$("#scorevalue").html(score);
+    	$("#scorevalue").html(score); 
 
     	//show trials left
     	$("#trialsLeft").show();
